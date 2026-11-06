@@ -1,8 +1,7 @@
 package erp.basket;
 
 import java.io.Serializable;
-import java.util.Map;
-import java.util.HashMap;
+
 //FIXME maybe import classes
 
 /**
